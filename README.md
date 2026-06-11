@@ -1,6 +1,4 @@
-# comcigan-timetable-parser
-
-컴시간 시간표를 JSON으로 반환합니다.
+컴시간 시간표를 JSON으로 반환
 
 ```python
 from comcigan import get_timetable
